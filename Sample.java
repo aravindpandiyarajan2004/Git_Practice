@@ -4,5 +4,6 @@ class Sample{
     System.out.println("Hello, Aravind!");
    System.out.println("Have a nice day");
     System.out.println("Welcome to relevantz");
+    System.out.println("This is git session");
   }
 }
